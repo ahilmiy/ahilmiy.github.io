@@ -16,10 +16,10 @@ Ağ güvenliği denetimleri ve testleri, kapsamlarına ve derinliklerine göre d
 
 Ağ güvenliği denetimleri ve testleri, aşağıdaki adımlardan oluşabilir:
 
-**1.	Planlama:** Denetimin veya testin kapsamının ve hedeflerin belirlenmesi.
-**2.	Keşif:** Denetimin veya testin gerçekleştirileceği ağdaki cihazların ve uygulamaların belirlenmesi.
-**3.	Değerlendirme:** Ağdaki güvenlik açıklarının tespit edilmesi.
-**4.	Raporlama:** Denetimin veya testin sonuçlarının raporlanması.
+    **1.	Planlama:** Denetimin veya testin kapsamının ve hedeflerin belirlenmesi.
+    **2.	Keşif:** Denetimin veya testin gerçekleştirileceği ağdaki cihazların ve uygulamaların belirlenmesi.
+    **3.	Değerlendirme:** Ağdaki güvenlik açıklarının tespit edilmesi.
+    **4.	Raporlama:** Denetimin veya testin sonuçlarının raporlanması.
 
 
 
@@ -36,9 +36,9 @@ Ağ güvenliği testleri, iki ana kategoriye ayrılabilir:
 **•	Diğer Testler:** Bu testler, sızma testlerinin dışında kalan güvenlik açıklarını tespit etmeye odaklanır. Örneğin, sosyal mühendislik testleri, çalışanların güvenlik farkındalığını değerlendirmeye odaklanır.
 
 Ağ güvenliği testlerinin faydaları şunlardır:
-•	Güvenlik açıklarını tespit etmeye yardımcı olur.
-•	Siber güvenlik risklerini azaltmaya yardımcı olur.
-•	Yasal uyumluluğu sağlamaya yardımcı olur.
+    •	Güvenlik açıklarını tespit etmeye yardımcı olur.
+    •	Siber güvenlik risklerini azaltmaya yardımcı olur.
+    •	Yasal uyumluluğu sağlamaya yardımcı olur.
 
 ## Gerçek Dünya Senaryoları
 
