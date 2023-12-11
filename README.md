@@ -6,9 +6,9 @@ Ağ güvenliği denetimleri ve testleri, bir kurumun ağ güvenliği durumunu de
 
 Ağ güvenliği denetimleri ve testleri, aşağıdakiler gibi çeşitli nedenlerle gerçekleştirilebilir:
 
-**•	Ağ güvenliği durumunu değerlendirmek:** Bu denetimler ve testler, kurumun ağ güvenliği politikalarının ve prosedürlerinin etkinliğini değerlendirmeye yardımcı olur. Ayrıca, ağdaki olası güvenlik açıklarını tespit etmeye yardımcı olur.
-**•	Yeni güvenlik önlemlerini değerlendirmek:** Bu denetimler ve testler, kurumun yeni güvenlik önlemlerini değerlendirmesine ve bunların etkinliğini belirlemesine yardımcı olur.
-**•	Yasal uyumluluk sağlamak:** Bazı sektörler, belirli ağ güvenliği denetimleri ve testleri gerçekleştirmeyi zorunlu kılan yasal düzenlemelere tabidir.
+              **•	Ağ güvenliği durumunu değerlendirmek:** Bu denetimler ve testler, kurumun ağ güvenliği politikalarının ve prosedürlerinin etkinliğini değerlendirmeye yardımcı olur. Ayrıca, ağdaki olası güvenlik açıklarını tespit etmeye yardımcı olur.
+              **•	Yeni güvenlik önlemlerini değerlendirmek:** Bu denetimler ve testler, kurumun yeni güvenlik önlemlerini değerlendirmesine ve bunların etkinliğini belirlemesine yardımcı olur.
+              **•	Yasal uyumluluk sağlamak:** Bazı sektörler, belirli ağ güvenliği denetimleri ve testleri gerçekleştirmeyi zorunlu kılan yasal düzenlemelere tabidir.
 
 **Nasıl Gerçekleştirilir?**
 
